@@ -8,8 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "VITE_BASE=/bespoke/ tsc -b && VITE_BASE=/bespoke/ vite build",
-    "deploy": "gh-pages -d dist -t true"
+    "predeploy": "VITE_BASE=/bespoke-demo/ tsc -b && VITE_BASE=/bespoke-demo/ vite build",
+    "deploy": "gh-pages -d dist -t"
   },
   "dependencies": {
     "clsx": "^2.1.1",
