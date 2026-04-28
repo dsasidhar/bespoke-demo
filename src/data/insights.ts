@@ -32,7 +32,7 @@ export const INSIGHTS: Insight[] = [
     id: 'ins-4',
     severity: 'positive',
     title: 'Sea Salt Caramel pipeline healthy — opportunity to push',
-    body: 'Inventory across all McLane DCs sits at 31 days on hand. Shelf life has 11+ months remaining. Safe to discuss the Mother\'s Day endcap with Clint at the May 5 review.',
+    body: 'Inventory across all McLane DCs sits at 31 days on hand. Shelf life has 11+ months remaining. Safe to greenlight the Mother\'s Day endcap commitment.',
     metric: 'Days on hand',
     delta: '+8d vs. plan',
     skuId: 'sku-004',

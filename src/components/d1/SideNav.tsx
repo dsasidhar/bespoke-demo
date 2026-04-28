@@ -86,14 +86,6 @@ export default function SideNav() {
           </button>
         ))}
       </nav>
-      <div className="mt-auto p-4">
-        <div className="rounded-lg bg-ink-50 border border-ink-100 p-3">
-          <div className="text-xs font-semibold text-ink-700 mb-1">Walmart review</div>
-          <div className="text-[11px] text-ink-500 leading-relaxed">
-            Next checkpoint with Clint: <b>May 5</b>. In-person presentation: <b>May 15–16</b>.
-          </div>
-        </div>
-      </div>
     </aside>
   );
 }

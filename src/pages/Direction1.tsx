@@ -102,7 +102,6 @@ export default function Direction1() {
 
           <footer className="pt-8 mt-8 border-t border-ink-100 text-xs text-ink-400 flex justify-between flex-wrap gap-2">
             <span>Bespoke × Walmart pilot · v0 prototype · all data is illustrative</span>
-            <span>Built for the May 5 review with Clint and the Walmart sourcing team</span>
           </footer>
         </main>
       </div>

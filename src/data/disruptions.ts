@@ -76,7 +76,7 @@ export const DISRUPTIONS: DisruptionNote[] = [
     segmentKey: 'walmart_store',
     severity: 'info',
     title: 'Mother\'s Day endcap planning',
-    body: 'May 1–9 endcap placement on Better Goods Dark 70% and Sea Salt Caramel — expect +50–60% lift. Confirmed with Clint\'s team.',
+    body: 'May 1–9 endcap placement on Better Goods Dark 70% and Sea Salt Caramel — expect +50–60% lift. Confirmed with Walmart category team.',
     updated: '2026-04-23',
   },
 ];

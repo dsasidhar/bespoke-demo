@@ -11,7 +11,7 @@ interface Exploration {
 const PRIMARY = {
   slug: '/d/walmart-pilot',
   title: 'Walmart Pilot — v0',
-  subtitle: 'The build for Clint',
+  subtitle: 'The pilot build',
   blurb:
     'One console for the full path: Greek factory → Rotterdam → Newark → 3PL → 27 McLane DCs → 4,000 Walmart stores. Pipeline ribbon with disruption notes, weekly planning grid, region/DC heatmap, and a what-if simulator.',
   bullets: [
@@ -63,7 +63,7 @@ export default function IndexPage() {
           </h1>
           <p className="text-base lg:text-lg text-ink-500 leading-relaxed">
             8 Better Goods SKUs · Eon &amp; Lavdas in Greece · 3PL near Newark · 27 McLane DCs ·
-            4,000 Walmart stores. Built for the May 18 review with Clint.
+            4,000 Walmart stores.
           </p>
         </section>
 

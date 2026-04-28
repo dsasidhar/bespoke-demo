@@ -146,7 +146,6 @@ export default function WalmartPilot() {
 
         <footer className="pt-8 mt-4 border-t border-ink-100 text-xs text-ink-400 flex justify-between flex-wrap gap-2">
           <span>Bespoke × Walmart Better Goods · v0 Pilot · all data illustrative until NetSuite + McLane feeds connected</span>
-          <span>Built for the May 18 in-person review with Clint</span>
         </footer>
       </main>
     </div>
